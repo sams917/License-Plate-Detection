@@ -15,7 +15,7 @@ This project detects license plates from images/videos using **YOLOv11** and ext
 ## 🛠️ Tech Stack
 - [YOLOv11 (Ultralytics)](https://github.com/ultralytics/ultralytics) – Object detection  
 - [OpenCV](https://opencv.org/) – Image & video processing  
-- [PaddleOCR](https://github.com/JaidedAI/EasyOCR) – Text extraction  
+- [PaddleOCR]([https://github.com/JaidedAI/EasyOCR](https://github.com/PaddlePaddle/PaddleOCR)) – Text extraction  
 - Python 3.11+  
 
 ---

@@ -5,10 +5,8 @@ import numpy as np
 
 yolo_model = YOLO("license_plate.pt")
 
-# Load PaddleOCR once
 ocr_reader = PaddleOCR(lang='en')
 
-# Open webcam
 cap = cv2.VideoCapture(0) 
 
 all_texts = []  

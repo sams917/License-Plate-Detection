@@ -1,12 +1,12 @@
 # 🚘 License Plate Detection & OCR using YOLOv11  
 
-This project detects license plates from images/videos using **YOLOv11** and extracts the plate text using **EasyOCR (Optical Character Recognition)**.  
+This project detects license plates from images/videos using **YOLOv11** and extracts the plate text using **PaddleOCR (Optical Character Recognition)**.  
 
 ---
 
 ## 📌 Features
 - 🔍 **YOLOv11-based License Plate Detection** – Detects plates in real-time.  
-- ✍️ **EasyOCR for Text Extraction** – Extracts license numbers from detected plates.  
+- ✍️ **PaddleOCR for Text Extraction** – Extracts license numbers from detected plates.  
 - 📹 **Supports Images, Videos & Webcam** – Works across different input sources.  
 - ⚡ **Fast & Accurate** – Optimized with OpenCV for smooth real-time performance.  
 
@@ -15,7 +15,7 @@ This project detects license plates from images/videos using **YOLOv11** and ext
 ## 🛠️ Tech Stack
 - [YOLOv11 (Ultralytics)](https://github.com/ultralytics/ultralytics) – Object detection  
 - [OpenCV](https://opencv.org/) – Image & video processing  
-- [EasyOCR](https://github.com/JaidedAI/EasyOCR) – Text extraction  
+- [PaddleOCR](https://github.com/JaidedAI/EasyOCR) – Text extraction  
 - Python 3.11+  
 
 ---
